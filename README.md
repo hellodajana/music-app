@@ -6,7 +6,7 @@ App based on Frontend masters course taught by Scott Moss using [Next.js](https:
 ### How to run in development mode
 
 ```
-git clone git@github.com:hellodajana/adopt-me.git
+git clone git@github.com:hellodajana/music-app.git
 npm install
 npm run dev
 ```
